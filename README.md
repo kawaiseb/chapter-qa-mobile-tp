@@ -28,5 +28,8 @@ $ git add fichier.txt
 
 [!] Ce fichier n'existe que en local !!!
 
-On le commit sur le repo
+On le commit sur le repo en local
+
 $git push
+
+Si il y a une erreur en general c'est que le repo n'est pas à jour (faire un git push)... Le repo doit être à jour pour le modifier.
